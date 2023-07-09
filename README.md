@@ -1,4 +1,5 @@
 # Kobachef_Project
+Aueb Project (STAMATIOS CHOULIARAS - IWANNIS VOUSVOUKYS)
 Index Page
 ![image](https://github.com/Koularis/Kobachef_Project/assets/124891002/c3b48b7a-77a2-4f0f-817e-aff51b6782f4)
 ![image](https://github.com/Koularis/Kobachef_Project/assets/124891002/d0c6d3a4-e278-4a4b-95f5-7710a00e35cf)
